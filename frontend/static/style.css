@@ -1,0 +1,40 @@
+body {  
+    font-family: Arial, sans-serif;  
+    max-width: 800px;  
+    margin: 0 auto;  
+    padding: 20px;  
+}  
+
+.voice-section {  
+    margin: 20px 0;  
+    display: flex;  
+    gap: 10px;  
+}  
+
+input[type="text"] {  
+    flex: 1;  
+    padding: 10px;  
+}  
+
+button {  
+    padding: 10px 20px;  
+    background: #075e54;  
+    color: white;  
+    border: none;  
+    cursor: pointer;  
+}  
+
+.blockchain-view {  
+    background: #f5f5f5;  
+    padding: 20px;  
+    margin-top: 20px;  
+}  
+
+.deed-container {  
+    text-align: center;  
+}  
+
+#qrImage {  
+    width: 200px;  
+    margin: 20px 0;  
+}  

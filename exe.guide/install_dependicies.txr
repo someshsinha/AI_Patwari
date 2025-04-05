@@ -1,0 +1,14 @@
+pip install -r backend/requirements.txt  
+
+**8*8***How it works **********
+🎥 Demo Script
+Click "Speak in Hindi" and say:
+"मेरे 2 एकड़ बेटे को ट्रांसफर करो"
+
+Click "Generate Deed"
+
+See:
+
+New tab opens with QR code deed
+
+Blockchain transaction updates in real-time

@@ -1,0 +1,13 @@
+ai-patwari/  
+├── backend/  
+│   ├── app.py  
+│   ├── blockchain.py  
+│   └── requirements.txt  
+├── frontend/  
+│   ├── templates/  
+│   │   ├── index.html  
+│   │   └── deed.html  
+│   └── static/  
+│       ├── style.css  
+│       └── script.js  
+└── README.md  
